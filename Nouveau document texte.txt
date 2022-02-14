@@ -1,0 +1,12 @@
+https://talent.cooptalis.com/anywr
+https://javascript.info/destructuring-assignment
+
+ sudo fallocate -l 1G /swapfile
+sudo chmod 600 /swapfile
+sudo mkswap /swapfile
+sudo swapon --show
+free -h
+dh -f
+http://www.terangajob.com/
+https://admin.kheweul.org/servlet/ViewDomainServlet?orderid=97142865&referrerkey=amZpVVJ6cGpJVjdMVitUVGRFL1NJVGtzenJTRXYvUDdtRUlxTXBGNzhOU0ZMMnBVcHZGRWhtNjhpN3pTMG5XSQ==#domorder
+http://167.99.247.162/
