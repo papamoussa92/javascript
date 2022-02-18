@@ -10,3 +10,12 @@ dh -f
 http://www.terangajob.com/
 https://admin.kheweul.org/servlet/ViewDomainServlet?orderid=97142865&referrerkey=amZpVVJ6cGpJVjdMVitUVGRFL1NJVGtzenJTRXYvUDdtRUlxTXBGNzhOU0ZMMnBVcHZGRWhtNjhpN3pTMG5XSQ==#domorder
 http://167.99.247.162/
+
+https://developers.facebook.com/apps/465354454687585/settings/basic/
+https://console.developers.google.com/apis/credentials/oauthclient/1086798240365-fdifsl6en6dtssinunnl6pin0pg3bmfi.apps.googleusercontent.com?project=terana
+
+https://www.digitalocean.com/community/tutorials/how-to-deploy-a-react-application-with-nginx-on-ubuntu-20-04
+
+scp -r ./build/* root@167.99.247.162:/var/www/html
+
+https://www.backmarket.fr/dashboard/orders
