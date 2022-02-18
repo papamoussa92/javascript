@@ -19,3 +19,8 @@ https://www.digitalocean.com/community/tutorials/how-to-deploy-a-react-applicati
 scp -r ./build/* root@167.99.247.162:/var/www/html
 
 https://www.backmarket.fr/dashboard/orders
+
+
+Projet
+https://www.chooseyourboss.com/candidates/offers/developpeur-fullstack-java-angular-application-e-commerce-teletravail-total-possible-h-f#
+https://unlck.fr/developpeurs/candidature/
