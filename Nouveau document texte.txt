@@ -24,3 +24,4 @@ https://www.backmarket.fr/dashboard/orders
 Projet
 https://www.chooseyourboss.com/candidates/offers/developpeur-fullstack-java-angular-application-e-commerce-teletravail-total-possible-h-f#
 https://unlck.fr/developpeurs/candidature/
+https://jobs.octopusit.fr/jobs?department=Javascript&query=
